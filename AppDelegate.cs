@@ -18,6 +18,7 @@ namespace CocoaXamarinMacApp1
 		public override void WillTerminate (NSNotification notification)
 		{
 			// Insert code here to tear down your application
+			// Note
 		}
 	}
 }
